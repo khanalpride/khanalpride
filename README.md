@@ -1,5 +1,8 @@
 ### Hi there, I'm Santosh Khanal 👋
-#### Web Developer
+#### Fullstack Web Developer
+
+Twitter: @khanalpride
+Email: santosh.khanal55@gmail.com
 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=khanalpride&show_icons=true&theme=dark)
