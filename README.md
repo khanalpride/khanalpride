@@ -2,6 +2,7 @@
 #### Fullstack Web Developer
 
 Twitter: @khanalpride
+
 Email: santosh.khanal55@gmail.com
 
 
